@@ -33,7 +33,7 @@ header {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: rgb(203, 188, 253);
+    background: #448AFF;
 }
 
 .logo {
